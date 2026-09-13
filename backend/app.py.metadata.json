@@ -1,4 +1,4 @@
 {
-  "summary": "Flask application factory with CORS, error handlers, and route registration.",
-  "updatedAt": "2026-09-13T13:34:18.530028500Z"
+  "summary": "Enhanced Flask app to serve React SPA when static bundle exists and provide clean JSON API fallback.",
+  "updatedAt": "2026-09-13T14:09:16.620130300Z"
 }
