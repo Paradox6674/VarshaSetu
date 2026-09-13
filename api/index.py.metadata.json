@@ -1,4 +1,4 @@
 {
-  "summary": "Diagnostic and self-healing Vercel serverless entry point with full exception introspection.",
-  "updatedAt": "2026-09-13T14:14:26.206338600Z"
+  "summary": "Vercel WSGI middleware ensuring accurate path resolution for serverless Flask calls.",
+  "updatedAt": "2026-09-13T14:24:49.008832600Z"
 }

@@ -26,6 +26,8 @@ def create_app(config_class=Config):
 
     # Health check endpoint
     @app.route("/api/health", methods=["GET"])
+    @app.route("/health", methods=["GET"])
+    @app.route("/api/index.py", methods=["GET"])
     def health_check():
         db_stat = db_manager.get_status()
         return jsonify({

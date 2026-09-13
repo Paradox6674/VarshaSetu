@@ -32,14 +32,14 @@ export default function Navbar({
       <div className="bg-slate-900 text-slate-300 px-4 py-1 text-xs font-mono flex items-center justify-between border-b border-slate-800">
         <div className="flex items-center gap-2">
           <span className="inline-block w-2 h-2 rounded-full bg-emerald-400"></span>
-          <span className="font-semibold text-white">SIH 2026 PS71</span>
+          <span className="font-semibold text-white">VARSHA-SETU</span>
           <span className="text-slate-500">|</span>
           <span className="hidden sm:inline text-slate-300">AI/ML Heavy Rainfall Early Warning & Inundation Prediction</span>
         </div>
         <div className="flex items-center gap-4 text-[11px]">
           <span className="hidden md:inline text-slate-400">Loop Engineering Architecture</span>
           <span className="bg-sky-950 text-sky-300 border border-sky-800 px-1.5 py-0.2 rounded text-[10px] font-semibold">
-            RESEARCH PROTOTYPE
+            METEOROLOGICAL PLATFORM
           </span>
         </div>
       </div>
@@ -57,8 +57,8 @@ export default function Navbar({
                 <h1 className="font-bold text-slate-900 text-base leading-tight tracking-tight">
                   VARSHA-SETU
                 </h1>
-                <span className="text-[10px] bg-slate-100 text-slate-600 font-semibold px-1.5 py-0.5 rounded border border-slate-200">
-                  PS71
+                <span className="text-[10px] bg-sky-50 text-sky-700 font-semibold px-1.5 py-0.5 rounded border border-sky-200">
+                  LIVE
                 </span>
               </div>
               <p className="text-[11px] text-slate-500 font-medium">

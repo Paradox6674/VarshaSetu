@@ -1,4 +1,4 @@
 {
-  "summary": "Clean vercel.json removing conflicting internal rewrites for Flask framework.",
-  "updatedAt": "2026-09-13T14:18:01.775428500Z"
+  "summary": "Add API rewrite rule to vercel.json so /api routes to Python serverless function.",
+  "updatedAt": "2026-09-13T14:24:43.166892700Z"
 }
