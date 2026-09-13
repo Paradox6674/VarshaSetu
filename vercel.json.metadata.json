@@ -1,4 +1,4 @@
 {
-  "summary": "Universal vercel.json configuration matching all Python functions and including backend and frontend distributions.",
-  "updatedAt": "2026-09-13T14:16:24.529765800Z"
+  "summary": "Clean vercel.json removing conflicting internal rewrites for Flask framework.",
+  "updatedAt": "2026-09-13T14:18:01.775428500Z"
 }

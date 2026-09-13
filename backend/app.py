@@ -41,6 +41,13 @@ def create_app(config_class=Config):
         @app.route("/", defaults={"path": ""})
         @app.route("/<path:path>")
         def serve_frontend_spa(path):
+            if path.startswith("api/"):
+                return jsonify({
+                    "success": False,
+                    "error": True,
+                    "message": f"API endpoint '/{path}' not found",
+                    "status_code": 404
+                }), 404
             file_path = os.path.join(dist_dir, path)
             if path != "" and os.path.exists(file_path):
                 return send_from_directory(dist_dir, path)
