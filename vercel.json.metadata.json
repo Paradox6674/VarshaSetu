@@ -1,4 +1,4 @@
 {
-  "summary": "Root vercel.json configuring frontend build and Python serverless API routing.",
-  "updatedAt": "2026-09-13T13:45:25.193473300Z"
+  "summary": "Updated vercel.json for modern Vercel serverless build with includeFiles.",
+  "updatedAt": "2026-09-13T14:03:28.559943300Z"
 }

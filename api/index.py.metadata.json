@@ -1,4 +1,4 @@
 {
-  "summary": "Vercel serverless Python entry point exposing the Flask WSGI app.",
-  "updatedAt": "2026-09-13T13:43:40.745916700Z"
+  "summary": "Enhanced Vercel serverless Python entry point with robust path handling and exception safety.",
+  "updatedAt": "2026-09-13T14:03:22.193641200Z"
 }
